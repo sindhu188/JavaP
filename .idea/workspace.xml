@@ -37,14 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern5">
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern1" />
-      <module name="Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pattern6">
     <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern2" />
       <module name="Patterns" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern6" />
+      <module name="Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.Pattern2" />
         <item itemvalue="Application.Pattern5" />
         <item itemvalue="Application.Pattern3" />
         <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.Pattern2" />
-        <item itemvalue="Application.Pattern1" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657607977950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit and push">
+      <created>1657695401477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657695401477</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit and push">
+      <created>1657695523220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657695523220</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,5 +158,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit and push" />
     <option name="LAST_COMMIT_MESSAGE" value="commit and push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern6.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
